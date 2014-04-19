@@ -1,0 +1,3 @@
+package plot
+
+trait Inference
