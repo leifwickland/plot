@@ -1,0 +1,46 @@
+Calculi
+
+  Lambda Calculus
+  Pi Calculus
+  Pattern Calculus
+  Join Calculus
+
+Reduction strategies
+
+  Full beta reductions
+  Applicative order
+  Normal order
+  Call by name
+  Call by value
+  Call by need
+
+Inference
+
+  Unification
+  Subsumption
+  Preference Ordering
+
+Metaprogramming
+
+  Syntactic expansion
+  Quasiquoting
+
+Concurrency
+
+Continuations
+
+State
+
+Termination / Totality
+
+Subtyping
+
+Inheritance
+
+Coercions
+
+Parametric Polymorphism
+
+Subtype Polymorphism
+
+Inheritance
